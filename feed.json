@@ -1,7 +1,19 @@
 {
   "columns": [
-    { "id": "c_street", "title": "Street", "posts": [] },
-    { "id": "c_events", "title": "Events", "posts": [] },
-    { "id": "c_visage", "title": "Visage", "posts": [] }
+    {
+      "id": "c_street",
+      "title": "Street",
+      "posts": []
+    },
+    {
+      "id": "c_events",
+      "title": "Events",
+      "posts": []
+    },
+    {
+      "id": "c_visage",
+      "title": "Visage",
+      "posts": []
+    }
   ]
 }
