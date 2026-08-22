@@ -6,11 +6,6 @@
       "posts": []
     },
     {
-      "id": "c_events",
-      "title": "Events",
-      "posts": []
-    },
-    {
       "id": "c_visage",
       "title": "Visage",
       "posts": [
@@ -20,6 +15,11 @@
           "caption": "ʟᴇᴀᴅɪɴɢ ᴛʜᴇ ᴍᴏᴠᴇᴍᴇɴᴛ — ɴᴜ-ɪɴꜱɪɢʜᴛ ᴘʀᴇꜱɪᴅᴇɴᴛ ’27"
         }
       ]
+    },
+    {
+      "id": "c_events",
+      "title": "Events",
+      "posts": []
     }
   ]
 }
